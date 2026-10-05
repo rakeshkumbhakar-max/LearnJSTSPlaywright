@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Shell(java:*)",
+      "Shell(mvn:*)"
+    ],
+    "deny": [],
+    "defaultMode": "default"
+  }
+}
