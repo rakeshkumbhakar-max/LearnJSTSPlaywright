@@ -1,0 +1,5 @@
+# Command Code agent config
+.commandcode/
+
+# VS Code workspace settings
+.vscode/
